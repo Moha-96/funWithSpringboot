@@ -1,8 +1,8 @@
-package com.example.fun_with_springboot.service;
+package com.example.funWithSpringboot.service;
 
-import com.example.fun_with_springboot.dto.RegisterRequestDto;
-import com.example.fun_with_springboot.model.User;
-import com.example.fun_with_springboot.repository.UserRepository;
+import com.example.funWithSpringboot.dto.RegisterRequestDto;
+import com.example.funWithSpringboot.model.User;
+import com.example.funWithSpringboot.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;

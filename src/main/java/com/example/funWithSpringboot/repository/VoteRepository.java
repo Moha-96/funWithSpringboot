@@ -1,6 +1,6 @@
-package com.example.fun_with_springboot.repository;
+package com.example.funWithSpringboot.repository;
 
-import com.example.fun_with_springboot.model.Vote;
+import com.example.funWithSpringboot.model.Vote;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface VoteRepository extends JpaRepository<Vote, Long> {

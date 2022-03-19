@@ -1,6 +1,6 @@
-package com.example.fun_with_springboot.controller;
+package com.example.funWithSpringboot.controller;
 
-import com.example.fun_with_springboot.dto.RegisterRequestDto;
+import com.example.funWithSpringboot.dto.RegisterRequestDto;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;

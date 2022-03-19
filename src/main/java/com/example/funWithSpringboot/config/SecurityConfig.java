@@ -1,4 +1,4 @@
-package com.example.fun_with_springboot.config;
+package com.example.funWithSpringboot.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.security.config.annotation.web.builders.HttpSecurity;

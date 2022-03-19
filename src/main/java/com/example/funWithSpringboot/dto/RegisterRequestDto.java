@@ -1,4 +1,4 @@
-package com.example.fun_with_springboot.dto;
+package com.example.funWithSpringboot.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

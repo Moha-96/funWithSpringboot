@@ -1,6 +1,6 @@
-package com.example.fun_with_springboot.repository;
+package com.example.funWithSpringboot.repository;
 
-import com.example.fun_with_springboot.model.VerificationToken;
+import com.example.funWithSpringboot.model.VerificationToken;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

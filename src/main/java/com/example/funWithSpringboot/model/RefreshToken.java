@@ -1,4 +1,4 @@
-package com.example.fun_with_springboot.model;
+package com.example.funWithSpringboot.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

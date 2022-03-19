@@ -1,4 +1,4 @@
-package com.example.fun_with_springboot;
+package com.example.funWithSpringboot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
