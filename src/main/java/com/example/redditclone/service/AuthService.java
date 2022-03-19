@@ -12,7 +12,8 @@ import java.time.Instant;
 @Service
 public class AuthService {
 
-
+    @Autowired
+    private PasswordEncoder passwordEncoder;
 
     /**da es jetzt Password unserer User user in Datenbank zu spreichern
      * dafür brauchen wir UserRepository*/
