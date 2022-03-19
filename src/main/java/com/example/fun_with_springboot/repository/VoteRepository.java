@@ -1,6 +1,6 @@
-package com.example.redditclone.repository;
+package com.example.fun_with_springboot.repository;
 
-import com.example.redditclone.model.Vote;
+import com.example.fun_with_springboot.model.Vote;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface VoteRepository extends JpaRepository<Vote, Long> {

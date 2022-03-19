@@ -1,4 +1,4 @@
-package com.example.redditclone.dto;
+package com.example.fun_with_springboot.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

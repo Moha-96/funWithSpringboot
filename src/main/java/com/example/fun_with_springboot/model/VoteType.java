@@ -1,4 +1,4 @@
-package com.example.redditclone.model;
+package com.example.fun_with_springboot.model;
 
 
 public enum VoteType {

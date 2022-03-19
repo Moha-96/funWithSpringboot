@@ -1,6 +1,6 @@
-package com.example.redditclone.controller;
+package com.example.fun_with_springboot.controller;
 
-import com.example.redditclone.dto.RegisterRequestDto;
+import com.example.fun_with_springboot.dto.RegisterRequestDto;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;

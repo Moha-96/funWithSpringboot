@@ -1,8 +1,8 @@
-package com.example.redditclone.service;
+package com.example.fun_with_springboot.service;
 
-import com.example.redditclone.dto.RegisterRequestDto;
-import com.example.redditclone.model.User;
-import com.example.redditclone.repository.UserRepository;
+import com.example.fun_with_springboot.dto.RegisterRequestDto;
+import com.example.fun_with_springboot.model.User;
+import com.example.fun_with_springboot.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;

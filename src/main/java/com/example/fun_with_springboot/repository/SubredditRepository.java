@@ -1,6 +1,6 @@
-package com.example.redditclone.repository;
+package com.example.fun_with_springboot.repository;
 
-import com.example.redditclone.model.Subreddit;
+import com.example.fun_with_springboot.model.Subreddit;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
